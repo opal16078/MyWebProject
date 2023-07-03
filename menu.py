@@ -1,1 +1,5 @@
+print("Menu Head")
+print("Body")
 print("Rice")
+print("Water")
+print("Ice")
